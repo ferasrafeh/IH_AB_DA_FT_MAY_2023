@@ -18,6 +18,6 @@
 - Feature Importance.
 
 #### Model Iteration (Wednesday and Thursday)
-- Rerun the model after adding the hot encoded categorical variables as well as other numeric categroical variables (e.g. number of open complaintes).
+- Rerun the model after adding the hot encoded categorical variables as well as other numeric categorical variables (e.g. number of open complaints).
 - (Optional) Rerun the model after removing the outliers and compare the results using the R2.
  
